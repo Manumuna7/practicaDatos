@@ -9,4 +9,5 @@ Para ello abrir la consola (F12) de la lista de natalidades y pegar la definici�
 Los datos obtenidos se guardan como JSON en un fichero de nombre [TrabajoFinal.js](../ESTADISTICA/TrabajoFinal.js). 
 Para visualizar los datos, se utiliza la librería de [Google Chart](https://developers.google.com/chart/) y el tipo de gráfico [bar chart](https://developers.google.com/chart/interactive/docs/gallery/barchart).
 El resultado es el que se muestra en la página [pruebavisualizacion.html](../ESTADISTICA/pruebavisualizacion.html)
+La razon de porque he decidido coger una tabla de natalidades es la siguiente [informe](../ESTADISTICA/informe.docx)
 
