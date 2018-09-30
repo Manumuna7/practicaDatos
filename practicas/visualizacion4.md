@@ -3,7 +3,7 @@ Se van a leer las coordenadas de una lista de natalidades y se van a graficar en
 
 Los datos provienen de la hoja [lista de natalidades](ESTADISTICA/new 1.html)
 
-Se van a obtener con WebScraping mediante la función leerNatalidad() del [fichero JavaScript](../ESTADISTICA/new 1.js)
+Se van a obtener con WebScraping mediante la función leerNatalidad() del [fichero JavaScript](../ESTADISTICA/new1.js)
 Para ello abrir la consola (F12) de la lista de natalidades y pegar la definición de la función. Ejecutar a continuación la función y copiar el resultado (la consola de Google Chrome, inserta un botón Copy al final del listado de datos).
 
 Los datos obtenidos se guardan como JSON en un fichero de nombre [TrabajoFinal.js](../ESTADISTICA/TrabajoFinal.js). 
